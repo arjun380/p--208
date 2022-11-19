@@ -1,0 +1,18 @@
+case 1
+number of cars - 40
+collision - yes
+time - 2.4 seconds
+intensity - 1048
+
+case 2
+number of cars - 50
+collision - yes
+time - 18.2 seconds
+intensity - 8321
+
+case 3
+number of cars - 100
+collision - yes
+time - 18.5 seconds
+intensity - 9161
+         
